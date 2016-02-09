@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/cryon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cryon.se
+  * I am cryon (https://keybase.io/cryon) on keybase.
+  * I have a public key with fingerprint CC52 998C 93A0 0D7B 5F7A  31A3 DEDA E6DE 0B09 4ED6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ce7d5d7c97e8b48adee94fb65171cfb8faec2782bf99f27b9fc50421ff5fbcd60a",
+            "fingerprint": "cc52998c93a00d7b5f7a31a3dedae6de0b094ed6",
+            "host": "keybase.io",
+            "key_id": "dedae6de0b094ed6",
+            "kid": "0101ce7d5d7c97e8b48adee94fb65171cfb8faec2782bf99f27b9fc50421ff5fbcd60a",
+            "uid": "4f6bbf9898383f6a890d160357f71b19",
+            "username": "cryon"
+        },
+        "service": {
+            "hostname": "cryon.se",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455047418,
+    "expire_in": 157680000,
+    "prev": "602cc0a5d321222bbaa319dbb450fbb26746216fab0929a2013e9367a394af18",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtUl1IFUEYvV41SqmEoCAqZAmKUtvZ/7mFhQn2EJEVRpRtMzszuv7cve6uf6mQ
+JYWVEVFQliVliFH0UEQJKhSV1o0yyEJRfBLEwsIIoaBmpaCHHpuXYb4558z5znxn
+FyaGwgljwxNjqQt2DCW8nMShgu6t4ToBO6RWiNQJpXRuo2WEer5ZahMhIohABBbV
+iUp0C+rUwIqBCKVQYVhTgQ4shg2GqCXphoQZhEzSMWSWKioSYExl2CKaiIQMgdnR
+IurGXDvqc1nLUiUIDQvKSBSJjlWmIxkgmVCCqEaoiEWoUKJxYrHjBQxuDiOPZtkO
+r/GDOWfvH/j/7LtyTk5hGuYwAxqyITMNGVAkQBNlVWc6wAAGQI+6UVROg+7cWicq
+NGQIvFRlWzRINWjj7+ssj3JSzHV8x3LKeLXY92ORgOTXxgJUNcXmb76J7Sjh+XFC
+FXU9m4tHAEdavh0IAkXlvnUFGBkCrYnZLjXtAKHqmiHyFTxDq7ikJkqWJSKVyBKQ
+JGknxoinDgnGiioyjCVNVzQJaAzxOCWIJBHIFMoa/xuoIAYMIWipIuoIEZn7REVc
+07OLosivdKnQkNKcsCIplBAOzUsOB5MVSlmQ9mfc4gfmh449vrK2Z6bjTcnV7JXJ
+r5LDw5/nVXWmK0PfMtm7Z+WXBx53fj+aurm35o7woL7723D3+SedmrPvTMaGnEKT
+vpw9vVjvOXH90uDVVbf7bx3oypU3tf+MN3/1Rg7HGq+do7kT04N7K7yS+PNl5pF8
+uWZRy9G2cNFquqW4Y/vTbeP4x5OH8N6mulj+7BIjfzCzrDzet3zj+0cDbS+SLh78
+NLNnnV8xWth6Nz5ltuTsqc6dyssuvpGaubTEze0l4O7+ndPT60uaT7Xs7ugvcMZP
+ymlh46Mxbtzclbdm133zQ+vb1K8/b3U1bfsyor8+dDy9vL0Q1MOlibDpc/to3+SF
+hsaJj78A
+=a3sR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cryon
+
+==================================================================
